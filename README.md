@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adeniyi%20David%20Adebote&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Computer%20Engineer%20%7C%20Civic%20Technology%20Architect&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Adeniyi%20David%20Adebote&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%"/>
+
+### Computer Engineer &nbsp;|&nbsp; Founder & CEO, Nnnew Network Limited &nbsp;|&nbsp; Civic Technology Architect
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Digital+Infrastructure+for+Governance;Architecting+Civic+Technology+at+National+Scale;Founder+%26+CEO+%E2%80%94+Nnnew+Network+Limited;Transforming+Public+Sector+Through+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Digital+Infrastructure+for+Governance;Architecting+Civic+Technology+at+National+Scale;Founder+%26+CEO+of+Nnnew+Network+Limited;Transforming+Public+Sector+Through+Technology)](https://git.io/typing-svg)
 
 <br/>
 
@@ -115,6 +117,11 @@ A federated national health data platform designed to unify patient records acro
 
 ## 📊 GitHub Activity
 
+<!-- 
+  ⚠️  SETUP REQUIRED: Replace YOUR_GITHUB_USERNAME in all 3 image URLs below with your real GitHub username.
+  Example: if your profile is github.com/adeniyi-adebote → replace with adeniyi-adebote
+-->
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -124,7 +131,7 @@ A federated national health data platform designed to unify patient records acro
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
